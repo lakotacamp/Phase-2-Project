@@ -1,0 +1,381 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Engineering the Future at Salesforce",
+      "author": "",
+      "likes": 5,
+      "date": "November 16, 2023",
+      "opening": "Today, Software Engineer Chelsea Davis spends her days developing a scoring method for customer satisfaction using machine learning. But, back in 2021, when Chelsea read the job description for the engineering role at Salesforce — she wondered if she even had the skillset to apply. While she met the majority of the criteria — with several years of tech consulting, an MBA, and certifications — there were a few preferred experiences that weren’t a perfect match to her resume. Did she shy away from the opportunity? No. Chelsea saw herself as a Trailblazer, and knew that her strength was in her ability to learn new things. She submitted her resume— and got the job. We sat down with Chelsea to learn more about her experience in the role, including her latest AI projects.",
+      "text": [
+        "img",
+        "Today, Software Engineer Chelsea Davis spends her days developing a scoring method for customer satisfaction using machine learning. But, back in 2021, when Chelsea read the job description for the engineering role at Salesforce — she wondered if she even had the skillset to apply.",
+        "While she met the majority of the criteria — with several years of tech consulting, an MBA, and certifications — there were a few preferred experiences that weren’t a perfect match to her resume.",
+        "Did she shy away from the opportunity? No. Chelsea saw herself as a Trailblazer, and knew that her strength was in her ability to learn new things. She submitted her resume— and got the job. We sat down with Chelsea to learn more about her experience in the role, including her latest AI projects.",
+        "div",
+        "As a Software Engineer and a Scrum lead on the data team, I do a lot of the code reviews for my peers — maintaining quality of the code — and with that comes lots of documentation on our coding and data projects to prepare knowledge transfers.",
+        "We also work together to solve problems, debug, and fix code when it breaks — because it inevitably will. There’s a lot of collaboration!",
+        "div",
+        "-Chelsea Davis",
+        "div",
+        "img",
+        "Chelsea running the Data Cloud Booth at Dreamforce 2022",
+        "Right now I am developing the sentiment analysis scoring method for our overall customer satisfaction using machine learning. Every single customer can give us feedback on our products and services at any time, and it’s my job — and my team’s job — to make sure we understand the feedback and then take action to make the experience better.",
+        "We’re using Natural Language Processing tools to digest thousands of data points much faster than humans can, and are building the categorization of overall scoring as positive, negative, or neutral.",
+        "From there, we’re creating a dashboard that will sort, summarize, and disseminate actionable insights using Generative AI so we know which improvement to focus on next.",
+        "I’m really excited to be working with such innovative AI technology and learning something new. This project will help us deliver better products to our customers, and I love that my work will directly impact that experience.",
+        "div",
+        "I've always been a forward-thinking person. When I got to college I asked myself: What's going to be around in the next 10 or 20 years? Technology came to mind because it’s always evolving, always changing, and requires constant learning. So I completed a Bachelor's degree in Management Information Systems.",
+        "I took a lot of coding courses during those years. In the beginning, I didn’t love coding — it wasn’t something I could see myself spending hours on every day. But what I loved was problem solving — it’s a sense of gratification every time I fix something!",
+        "Luckily, software engineering doesn’t have to be only about coding; I found my place on the data analytics side of the house. I am passionate about making data useful, and I can understand and articulate it to make things better. Companies have millions of pieces of data, and every bit of it is an asset — we have to make sure that data is not only used in the most optimal way, but also that it is secure and accurate.",
+        "div",
+        "img",
+        "Together with BOLDforce, Salesforce’s Business Resource Group for black employees and allies, Chelsea mentored local Dallas students on Salesforce technology and career skills.",
+        "Chelsea hosting an HBCU panel for her local high school's collegiate program at the Salesforce Dallas Tower",
+        "The continuous learning path is what I love most about this job. I'm gaining so many skills and working with technologies that I had no previous experience with, like Oracle and Snowflake. And, this whole AI revolution has taught me so much about the possibilities of technology. It’s amazing what I can learn from the different projects I work on, how I am really encouraged to be innovative, and how I can raise my hand to say “Hey, this can be better if we automate it.” Plus, I get to help our customers be more successful with these technologies, too!",
+        "My team is very supportive and many are more senior than I am, so picking their brains has also been amazing for my growth. We’re all excited to help each other, and there’s definitely an open-door policy to our leaders that I’ve never experienced before. The diverse backgrounds and perspectives on my team, and within the company, have been a great way for me to learn from my peers in a really unique way.",
+        "Salesforce provides a plethora of formal resources too: I just signed up for trainings to learn more about Airflow and Python. There are endless possibilities here to learn and try new things, so I'm excited for my future!",
+        "div"
+      ],
+      "video": [
+        ""
+      ],
+      "divider": [
+        "Tell us about your role as a Software Engineer with a specific focus on data engineering. What does your day-to-day look like?",
+        "'I’m really excited to be working with such innovative AI technology and learning something new. This project will help us deliver better products to our customers, and I love that my work will directly impact that experience.'",
+        "What’s a project you’re working on that excites you?",
+        "What led you to becoming a Software Engineer?",
+        "What do you like most about your role?",
+        "We can't wait to meet you!"
+      ],
+      "image": [
+        "https://careers.salesforce.com/media/shonkg1b/img_2952_720-1-1.jpg?rmode=max&width=337&height=449",
+        "https://careers.salesforce.com/media/eesfak0b/img_1692_720-1.jpg?rmode=max&width=385&height=289",
+        "https://careers.salesforce.com/media/inwhjh1q/img_0285.jpg?rmode=max&width=426&height=306"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Future-Driven Dev Empowerment: Slack SVP Tackles New AI and Automation Challenges Head-On",
+      "author": "TRukmini Reddy",
+      "date": "Nov 14",
+      "opening": "In our “Engineering Energizers” Q&A series, we examine the professional journeys that have shaped Salesforce Engineering leaders. Meet Rukmini Reddy, Senior Vice President of Software Engineering for the Slack platform. Her team’s goal is to empower developers, enhance productivity, and push the envelope of AI and automation innovation at Slack.",
+      "text": [
+        "img",
+        "By Rukmini Reddy and Scott Nyberg",
+        "In our “Engineering Energizers” Q&A series, we examine the professional journeys that have shaped Salesforce Engineering leaders. Meet Rukmini Reddy, Senior Vice President of Software Engineering for the Slack platform. Her team’s goal is to empower developers, enhance productivity, and push the envelope of AI and automation innovation at Slack.",
+        "Read on to explore how Rukmini and her team overcome tough technical challenges to deliver seamless experiences for our customers.",
+        "My team’s mission is to make automation accessible for everyone. We spearhead Slack’s first-party developer experience, which allows enterprise developers to build applications and integrations on our platform just for their own teams and workspaces. We also assist a thriving third-party developer ecosystem, which allows Slack partners to build and publish apps on our App Directory for anyone to install. We currently have more than 2,600 partner apps in our directory from partners like PagerDuty, Atlassian, and more.",
+        "Another product we support is Workflow Builder, a groundbreaking no-code automation tool that enables Slack users of any technical level to significantly streamline their tasks. By creating customized workflows, users can automate routine functions — radically increasing their productivity.",
+        "div",
+        "Prior to the re-architecture, apps on the Slack platform were time-consuming to build, and functionality was locked away in monolithic code that was difficult to repurpose and challenging to update and maintain over time. Our developer community told us they wanted more.",
+        "To solve this challenge, our transformative re-architecture made Slack’s platform modular and composable, enabling apps to be broken down by functions, which provides a lot more flexibility and enables developers to define a unit of programming logic that solves their specific business problems. Now, developers can create functions that serve as modular building blocks, chain those functions together to create complex functionality, and most importantly, share those building blocks with others to remix and reuse in their own automated workflows.",
+        "Also prior to the re-architecture, enterprise developers worried about where they would host their code and navigating long admin approval processes. With the new platform, they can host their code directly in Slack for a more seamless experience and to eliminate infrastructure overhead. Hosting code in Slack also ensures apps are secure and compliant by design, so developers can focus more on what they do best (creating apps!) while being assured that what they built aligns with their organization’s security standards.",
+        "image",
+        "div",
+        "We are approaching generative AI in Slack in two ways to take intelligent productivity to the next level. First, we recently announced Slack AI, which brings generative AI natively into the user experience. Those capabilities include:",
+        "-  Channel recaps: By receiving real-time highlights from any channel, users save considerable time writing status reports or deciphering central themes from feedback channels",
+        "-  Thread summaries: One-click summaries enable users to easily catch up on lengthy team discussions ranging from brainstorming sessions to strategy planning",
+        "-  Search answers: By asking search questions in natural language, the platform provides search results including relevant messages, files, and channels, as well as AI-generated summaries",
+        "Slack AI runs on Slack’s trusted infrastructure, which ensures security and compliance. With Slack AI, no data leaves Slack, there is no third-party model training, and no data cross-contamination.",
+        "Our second approach to generative AI is via our APIs and open platform ecosystem, which provides the flexibility to integrate with any combination of AI partners. That includes partner-built apps in our app directory like the Claude app built by Anthropic, and custom AI apps built by Slack customers.",
+        "And Slack’s new and improved Workflow Builder introduces exciting automation features such as no-code automation, which empowers engineers of all experience levels to automate without code and features connectors from external sources and Salesforce Flow. Additionally, users can leverage a dedicated automation hub within Workflow Builder, enabling them to easily access automation in one central location that also provides templates, recent workflows, and team-wide workflows. Users can also reuse automations from other teams seamlessly.",
+        "div",
+        "Managing technical risks remains a common challenge for my team. One risk relates to iterative development, where our first attempt may not seamlessly deliver a quick solution. To overcome this challenge, our leaders must know how and when to pivot, seek feedback in the project’s early stages, and build incrementally.",
+        "We also employ a feedback-centric methodology, where we may rapidly deploy a prototype version — even if it’s not perfectly polished — to gather early customer feedback. This enables us to leverage our learnings from customer input and swiftly create the next version.",
+        "Alternatively, we may return to the drawing board and possibly re-architect a solution that was already provided to customers. While risky, this may play a key role in successfully transitioning from the prototype stage to production-ready scalability.",
+        "div",
+        "For example, we recently faced the risk of not rapidly rebuilding a product’s information architecture due to time-to-market considerations. While we knew its setup may not be the most efficient, we were able to gather quick customer feedback and successfully re-architect our solution in just two months.",
+        "We are able to navigate these kinds of risks via constant communication, understanding when we can take chances, and embracing the fact that the decisions we make today may not always be permanent."
+      ],
+      "video": [
+        ""
+      ],
+      "divider": [
+        "What is your team’s mission?",
+        "You joined Slack a few years ago to re-architect the platform. What key challenge inspired the redesign and how has your team helped?",
+        "What are some recent innovations in AI and automation that your team has brought to Slack?",
+        "What technical risks does your team encounter while creating solutions for customers?",
+        "Can you give an example of this in practice?"
+      ],
+      "image": [
+        "https://engineering.salesforce.com/wp-content/uploads/2023/11/Slack-AI-automation.jpg?w=890&h=512&crop=1",
+        "https://engineering.salesforce.com/wp-content/uploads/2023/11/Slack-AI-automation.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Empowering Young Professionals: Life as a Salesforce Product Manager",
+      "author": "Pragya Sharma",
+      "date": "November 14, 2023",
+      "opening": "Passion is fuel for product managers — or, at least, that’s the case for Divya Sharma, Senior Director of Product Management at Salesforce. Discover her career path below, and how she’s blazed new trails for product management in India.",
+      "text": [
+        "img",
+        "Passion is fuel for product managers — or, at least, that’s the case for Divya Sharma, Senior Director of Product Management at Salesforce.",
+        "Discover her career path below, and how she’s blazed new trails for product management in India.",
+        "img",
+        "Meet Divya Sharma.",
+        "div",
+        "Divya had already built an impressive resume before she joined Salesforce as a Senior Manager, Product Management for Industries Cloud. She was drawn to Salesforce by its reputation as one of the best workplaces and its innovative product portfolio.",
+        "“It has been an amazing experience from day one,” says Divya. “I delivered on four industry domains and learned so much in the first three years. I was working with a high-performing development team, and the rapid pace at which we could deliver on commitments was exhilarating.”",
+        "She credits her managers and mentors for her ability to thrive in this high-velocity, results-driven environment.",
+        "“All through my journey at Salesforce, I have had phenomenal support in the form of guidance from seniors. I also had access to technical and leadership programs, which really made a difference in my learning and growth,” she says.",
+        "Now a Senior Director of Product Management for Financial Services, Divya’s in charge of product releases at various stages of development. Her work involves collaborating with teams and stakeholders and driving discovery or validation sessions with customers or partners as secondary research. When she’s not working on aligning teams, she’s canvassing for new features and building product roadmaps.",
+        "- Divya Sharma",
+        "div",
+        "img",
+        "Divya with her family.",
+        "When asked how she balances the demands of her leadership role, Divya credits her work as a passion that gives her energy — not to mention her family’s unwavering support.",
+        "“For one thing, there is no boredom,” she said. “I love building intelligent products that solve customer problems. Plus, I find it motivating to work with an organization focused on making a positive business and social impact. The fact that I get to work with high performers and benefit from the company’s employee-friendly policies and open culture are all drivers for me.”",
+        "The open culture Divya refers to includes the Salesforce policy of inviting every employee to voice their opinions on the company’s V2MOM — the business management process which stands for Vision, Values, Methods, Obstacles, and Measures — and other company-wide initiatives that encourage open dialogue, no matter an employee’s title. “I think Salesforce is the best place for everyone looking to invest and grow in their careers with the right support.”",
+        "Divya credits her growth to the emphasis on learning at Salesforce, which including hands-on opportunities, continuing education support, structured training programs, and mentorship opportunities.",
+        "“When the Salesforce Women Network was started in India, I was part of the mentorship team,” she said. “Many of those who attended our sessions were keen to pursue product management. They had specific questions about the nature of skills required. I was able to coach them, and it was incredibly rewarding,” explains Divya.",
+        "div",
+        "- Divya Sharma",
+        "div",
+        "Divya has one motto that guides her own successes: Life is 10% of what happens to you, and 90% of how you react to it.",
+        "For her, that means always being detailed, thorough, and curious about ideas. After all, as Divya says, “there is no substitute for taking the initiative and being proactive.”",
+        "This philosophy also extends beyond the workplace ... in fact, it goes back to when Divya represented Mumbai city and played table tennis at the state level.",
+        "“I was playing at an inter-school championship against the second seed. Despite being the third seed, I went on to win the last game,” she said. “It happened because of something my coach said. She reminded me to take a moment to breathe and remind myself that I would do my best, no matter the result. This helped rebuild my confidence — and win a game even when everything was in the opponent’s favor.”",
+        "Though Divya no longer plays table tennis competitively, she continues to find moments of happiness through hobbies like painting and gardening. At work, team lunches and outings remind her of the “small things that give me happiness and make me feel at peace with myself,” she says."
+      ],
+      "video": [
+        ""
+      ],
+      "divider": [
+        "Charting a path of rapid learning and growth",
+        "“It has been an amazing experience from day one. I delivered on four different industry domains and learned so much just in the first three years.”",
+        "Flourishing in an encouraging culture",
+        "“I think Salesforce is the best place for everyone looking to invest and grow in their careers with the right support.”",
+        "Building her path to success"
+      ],
+      "image": [
+        "https://careers.salesforce.com/media/t3zp35zd/divya-with-her-family.jpeg?width=940&height=627&rnd=133444321986200000&width=940&height=627&rmode=crop&format=webp&quality=100",
+        "https://careers.salesforce.com/media/23tnrrcy/divya-headshot-image.png?rmode=max&width=246&height=217",
+        "https://careers.salesforce.com/media/t3zp35zd/divya-with-her-family.jpeg?rmode=max&width=330&height=248"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Lessons in Leadership from a Customer Success Trailblazer",
+      "author": "Pragya Sharma",
+      "date": "November 14, 2023",
+      "opening": "Diti Mansata has worn multiple hats throughout her 16-year professional journey — but never anticipated that Salesforce Director would be one of them. Now three years into her Salesforce tenure, Diti is a leader within our Professional Services organization, guiding a team of 130+ to support unprecedented levels of customer success.",
+      "text": [
+        "img",
+        "Diti Mansata has worn multiple hats throughout her 16-year professional journey — but never anticipated that Salesforce Director would be one of them.",
+        "Now three years into her Salesforce tenure, Diti is a leader within our Professional Services organization, guiding a team of 130+ to support unprecedented levels of customer success.",
+        "img",
+        "Diti Manasata, Director, Professional Services Global Delivery Centers",
+        "div",
+        "So, how did Diti — who previously worked within mid-sized companies — find herself at a large, enterprise organization?",
+        "“I was at a women’s leadership conference in Bengaluru when I happened to mention to a friend that I was interviewing with a company called Vlocity [now Salesforce Industries],” shared Diti. “When she said the company had been acquired by Salesforce, I was quite surprised.”",
+        "Though Diti was hesitant to jump to a large company, she was convinced to make the leap after speaking with the hiring team and seeing Salesforce’s acquisition vision and roadmap. Both gave her a clear picture of what to expect on the road ahead. “Even though the pandemic had kicked in and I could only meet the team virtually, it was a smooth transition and a warm welcome for me,” she said.",
+        "Since then, Diti has made a significant impact, contributing her expertise to consulting, pre-sales, and delivery within Salesforce. She currently serves as Director, Professional Services Global Delivery Centers, leading the Communications & Revenue Cloud industry practices. She leads a team of Managers, Senior Managers, and Senior Architects across the company.",
+        "div",
+        "img",
+        "Diti Manasata with her Professional Services team.",
+        "What makes Salesforce a place where Diti can thrive? She attributes it to the foundation of trust and authenticity.",
+        "“Trust is the key Salesforce value that resonates with me,” said Diti. “I know my senior leaders trust me. There is the same level of trust between me and my team members, too.”",
+        "However, Diti knows this trust must be earned. She has a word of advice for those aspiring to join Salesforce: “Be honest about your work — and the organization will take care of everything else. Salesforce is an ocean full of opportunities. And it is not just opportunities in terms of professional assignments, but the ones you get to choose alongside your work.”",
+        "div",
+        "- Diti Mansata",
+        "div",
+        "img",
+        "Diti with her family.",
+        "For Diti, those opportunities focus around volunteerism, community building, and, of course, her family. And, oftentimes, they all come together at Salesforce.",
+        "“We have various interest-based communities within Salesforce,” said Diti. “For instance, I am part of a Slack group called Artforce Global — a whole group dedicated to showcasing creativity. Usually, I am motivated to create something over the weekend, so I can post it in the group on a Monday. My daughter joins me, too, which becomes an additional motivational factor for me.”",
+        "The Bengaluru resident also has a passion for giving back in her community — something that she says Salesforce makes easy.",
+        "“Our volunteering leaves — or Volunteer Time Off — makes it easier to do more on the volunteering front without compromising personal time off.”",
+        "div",
+        "When asked what Diti attributes to her successful career, she emphasizes the importance of learning.",
+        "“I always tell people that they should be open to acquiring knowledge within their domain, as well as cross-domain training,” said Diti. “If you are willing to learn constantly, you will always grow. And you can’t be hesitant to ask questions, just because of the fear of how other people in the room will judge you.”",
+        "That attitude — paired with Diti’s always-on authenticity — is what has made her a leader in the Professional Services space .... and how she empowers others to elevate their own careers.",
+        "“Remember: The best leadership quality is to be your authentic self, and don’t be afraid to show your vulnerabilities.”",
+        "div",
+        "Join our Talent Community and be the first to know about open roles, career tips, events happening near you, and much more."
+      ],
+      "video": [
+        ""
+      ],
+      "divider": [
+        "When opportunity comes knocking",
+        "Creating space for trust and authenticity",
+        "“Be honest about your work; the organization will take care of everything else.”",
+        "Striking the right balance between work and home",
+        "Developing the right perspective for success",
+        "We can't wait to meet you!"
+      ],
+      "image": [
+        "https://careers.salesforce.com/media/seupgeoy/diti.jpg?cc=0,0.0687428514239899,0,0.3687571485760101&width=940&height=627&rnd=133444304034570000&width=940&height=627&rmode=crop&format=webp&quality=100",
+        "https://careers.salesforce.com/media/4yibd3by/whatsapp-image-2023-03-07-at-112121.jpg?rmode=max&width=235&height=313",
+        "https://careers.salesforce.com/media/vtddrjsj/diti-with-her-team.jpeg?rmode=max&width=335&height=188",
+        "https://careers.salesforce.com/media/cqepi02i/diti-mansata-with-family.jpeg?rmode=max&width=244&height=326"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "From the Army to Sales – A Journey to Salesforce",
+      "author": "Amanda Hampton",
+      "date": "November 08, 2023",
+      "opening": "Jumping from the highly structured environment of the military to the wide-open possibilities of a tech career takes courage — just ask Hanna Peck, Salesforce Account Executive. Enter: Salesforce Military. This department, run by veterans for veterans, works to ease this transition by providing active military, veterans, and spouses the classes, certifications, and support they need for successful careers in tech.",
+      "text": [
+        "img",
+        "Jumping from the highly structured environment of the military to the wide-open possibilities of a tech career takes courage — just ask Hanna Peck, Salesforce Account Executive.",
+        "Enter: Salesforce Military. This department, run by veterans for veterans, works to ease this transition by providing active military, veterans, and spouses the classes, certifications, and support they need for successful careers in tech.",
+        "img",
+        "Hanna, middle, with her Captain’s Career Course classmates in 2021.",
+        "div",
+        "Hanna’s military career started in 2016 as a commissioned officer in the United States Army. Working in Human Resources, she traveled all over the world and the states, including Europe and Afghanistan. After eight years in the Army, Hanna was ready for her next career move – but figuring out what came after the military wasn’t linear. Through the Hiring Our Heroes program, she was introduced to a fellowship at Salesforce.",
+        "At first, Hanna was apprehensive – unsure of the skills required, the role growth, or the technology sector. (In fact, she said sales reminded her of the dad from Matilda — and she wasn’t about to step into a career selling faulty cars to unknowing consumers!). But, she decided to take a leap of faith based on her interview process with Salesforce and her immediate connection to the Salesforce culture and people.",
+        "“The culture stood out to me right away … coming from the military, I appreciate a very family and person-oriented culture … so it was nice to transition to a place with a similar tone.”",
+        "div",
+        "Immediately, Hanna saw ties between her new role and the military. “Sales is built on relationships. It’s about getting to know people and identifying how to best serve them. Service to others is the foundation of military service, and so I immediately identified with it.”",
+        "In the fellowship, Hanna had the opportunity to shadow the sales team and quickly learned the basics. She was assigned a mentor, who guided Hanna through Salesforce onboarding, taught her sales processes, and helped her build her confidence — pointing out the military skills that gave her a unique perspective amongst those more traditional sales backgrounds.",
+        "“The growth journey has been rewarding,” shared Hanna. “My fellowship responsibilities fully prepared me for a full-time Account Executive role” — a role which she landed later that year. As an Account Executive, she now works daily to bring the best solutions to her clients. “Salesforce is something I believe in – it makes it easy to build relationships and connect with customers.“",
+        "To Hanna, the fellowship proved pivoting career fields was possible. More importantly, though, it was an opportunity to represent veterans in sales. “As one of five sales fellows, I feel lucky my experience can show what future veterans can do for the role and for Salesforce.”",
+        "div",
+        "img",
+        "Now, Hanna is committed to paying it forward.",
+        "She continues to meet with veterans transitioning into civilian careers and encourages them to network with people from all backgrounds.",
+        "”It’s so important to connect with people in your transition and learn about them,“ said Hanna. “It’s about connection and learning what people do and how they thrive. Instead of asking for a job or a referral, ask for a 15 minute chat to learn about the person and what motivates them.”",
+        "Her biggest piece of advice for people looking to change careers? “Focus on the company culture and connecting with people. It has made all the difference.”"
+      ],
+      "video": [
+        "TestVid5"
+      ],
+      "divider": [
+        "Starting in Sales — Trusting Her Instincts",
+        "From Fellow to Full Time",
+        "Hanna’s Advice for Continuous Growth at Salesforce"
+      ],
+      "image": [
+        "https://careers.salesforce.com/media/twqf2cps/img_3753.jpg?width=940&height=627&rnd=133434323024100000&width=940&height=627&rmode=crop&format=webp&quality=100",
+        "https://careers.salesforce.com/media/orzgnyen/img_0117.jpg?rmode=max&width=299&height=351",
+        "https://careers.salesforce.com/media/snsarcp1/slack-imgs.jpg?rmode=max&width=406&height=304"
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "name": "Software Engineering LMTS/PMTS | Backend/Full-Stack",
+      "location": "India - Bangalore/India - Hyderabad",
+      "tag": "Software Engineering"
+    },
+    {
+      "id": 2,
+      "name": "Regional Vince President - FINS - West Region",
+      "location": "India - Mumbai",
+      "tag": "Sales"
+    },
+    {
+      "id": 3,
+      "name": "Manager, Customer Intelligence",
+      "location": "Development & Strategy",
+      "tag": "India - Bangalore"
+    },
+    {
+      "id": 4,
+      "name": "Product Marketing Manager - Bangalore",
+      "location": "India - Bangalore",
+      "tag": "Marketing & Communications"
+    },
+    {
+      "id": 5,
+      "name": "Software Engineering PMTS- Java & Big data",
+      "location": "India - Hyderabad",
+      "tag": "Software Engineering"
+    },
+    {
+      "id": 6,
+      "name": "Senior Success Guide",
+      "location": "India - Hyderabad",
+      "tag": "Customer Success"
+    },
+    {
+      "id": 7,
+      "name": "Senior Success Guide",
+      "location": "India - Hyderabad",
+      "tag": "Customer Success"
+    },
+    {
+      "id": 8,
+      "name": "Sales Strategy, Senior Analyst",
+      "location": "Singapore - Singapore",
+      "tag": "Operations"
+    },
+    {
+      "id": 9,
+      "name": "Senior Director, Product Management Data Cloud Connectivity",
+      "location": "California - San Francisco",
+      "tag": "Product"
+    },
+    {
+      "id": 10,
+      "name": "VP, Engineering - Salesforce AI",
+      "location": "India -Bangalore/India - Hyderabad",
+      "tag": "Software Engineering"
+    },
+    {
+      "id": 11,
+      "name": "Principal Data Modeler",
+      "location": "Washington - Bellevue",
+      "tag": "Software Engineering"
+    },
+    {
+      "id": 12,
+      "name": "Senior Data Modeler",
+      "location": "California - Palo Alto/ Washington - Bellevue",
+      "tag": "Software Engineering"
+    }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "header": "Personal Info",
+      "comment": "Hello David"
+    },
+    {
+      "id": 2,
+      "header": "About",
+      "comment": "Add Personal Info"
+    },
+    {
+      "id": 3,
+      "header": "Experience",
+      "comment": "Add Your Experience Here"
+    },
+    {
+      "id": 4,
+      "header": "Education",
+      "comment": "Add Your Educational Attainment Here"
+    },
+    {
+      "id": 5,
+      "header": "Skills",
+      "comment": "Add Your Relevant SKills Here"
+    },
+    {
+      "id": 6,
+      "header": "Interests",
+      "comment": "Tells Us About Your Interests!"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "",
+      "body": "",
+      "image": "",
+      "opening": ""
+    },
+    {
+      "title": "Test",
+      "body": "Test",
+      "image": "Testingmore",
+      "opening": "Testington",
+      "id": 2
+    }
+  ]
+}
